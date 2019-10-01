@@ -4,7 +4,7 @@ C:\Users\IME13>git config --global user.name 17011775
 
 C:\Users\IME13>git config --global user.email antonio629@naver.com
 
-C:\Users\IME13>git clone https://github.com/17011775/Quiz.git
+C:\Users\IME13>git clone https://github.com/17011775/Quiz.git 
 Cloning into 'Quiz'...
 warning: You appear to have cloned an empty repository.
 
@@ -14,7 +14,7 @@ C:\PatternRecognition>git config --global user.name 17011775
 
 C:\PatternRecognition>git config --global user.email antonio629@naver.com
 
-C:\PatternRecognition>git clone https://github.com/17011775/Quiz.git
+C:\PatternRecognition>git clone https://github.com/17011775/Quiz.git //퀴즈 1)
 fatal: destination path 'Quiz' already exists and is not an empty directory.
 
 C:\PatternRecognition>cd Quiz
@@ -31,7 +31,7 @@ nothing to commit, working tree clean
 C:\PatternRecognition\Quiz>git commit -m "Add 20190930_Quiz2_solution
 On branch master
 Your branch is based on 'origin/master', but the upstream is gone.
-  (use "git branch --unset-upstream" to fixup)
+  (use "git branch --unset-upstream" to fixup) 
 
 nothing to commit, working tree clean
 
@@ -60,9 +60,9 @@ Compressing objects: 100% (2/2), done.
 Writing objects: 100% (5/5), 398 bytes | 199.00 KiB/s, done.
 Total 5 (delta 0), reused 0 (delta 0)
 To https://github.com/17011775/Quiz.git
- * [new branch]      master -> master
+ * [new branch]      master -> master  //퀴즈 2)
 
-C:\PatternRecognition\Quiz>git branch solution
+C:\PatternRecognition\Quiz>git branch solution //퀴즈 3)
 
 C:\PatternRecognition\Quiz>git branch
 * master
@@ -96,3 +96,5 @@ C:\PatternRecognition\Quiz>git branch
   solution
 
 C:\PatternRecognition\Quiz>
+``` 
+대충 5,6번근처까지 한거같습니다
